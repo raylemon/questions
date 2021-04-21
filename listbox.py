@@ -1,3 +1,7 @@
+""" Comment attacher un évévenement de sélection à une listbox"""
+
+""" Comment attacher une scrollbar"""
+
 import tkinter as tk
 
 
